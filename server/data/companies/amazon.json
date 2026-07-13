@@ -1,0 +1,100 @@
+{
+  "Frontend Developer": {
+    "easy": [
+      "What is HTML?",
+      "What is CSS?",
+      "What is JavaScript?",
+      "What is React?",
+      "What is the DOM?",
+      "Difference between var, let and const?",
+      "What is Flexbox?",
+      "What is CSS Grid?",
+      "What is JSX?",
+      "What are React Components?"
+    ],
+    "medium": [
+      "Explain Virtual DOM.",
+      "What are React Hooks?",
+      "Difference between useEffect and useLayoutEffect?",
+      "Explain Event Delegation.",
+      "What is Memoization?",
+      "How does React Reconciliation work?",
+      "Explain REST API.",
+      "How do you optimize React applications?",
+      "Difference between State and Props?",
+      "Explain Closures in JavaScript."
+    ],
+    "hard": [
+      "Design a scalable frontend architecture.",
+      "Explain React Fiber.",
+      "Implement an LRU Cache.",
+      "Explain Hydration.",
+      "Optimize rendering of large lists.",
+      "Explain Concurrent Rendering.",
+      "What happens inside React when state changes?",
+      "How would you build a reusable component library?",
+      "Explain Webpack optimization.",
+      "Build Infinite Scrolling."
+    ]
+  },
+
+  "Backend Developer": {
+    "easy": [
+      "What is Express.js?",
+      "What is Node.js?",
+      "Difference between SQL and NoSQL?",
+      "Explain CRUD operations.",
+      "What is JWT?"
+    ],
+    "medium": [
+      "Explain Authentication.",
+      "Explain Authorization.",
+      "Difference between PUT and PATCH.",
+      "Explain Middleware.",
+      "Explain MongoDB Indexing."
+    ],
+    "hard": [
+      "Design a URL Shortener.",
+      "Design a Chat Server.",
+      "Explain Event Loop.",
+      "Explain Cluster Mode.",
+      "How does Node handle concurrency?"
+    ]
+  },
+
+  "AI / ML Engineer": {
+    "easy": [
+      "What is Machine Learning?",
+      "Difference between AI and ML?",
+      "What is Supervised Learning?"
+    ],
+    "medium": [
+      "Explain Gradient Descent.",
+      "Difference between CNN and RNN.",
+      "Explain Overfitting."
+    ],
+    "hard": [
+      "Explain Transformers.",
+      "How does BERT work?",
+      "Explain Attention Mechanism."
+    ]
+  },
+
+  "Data Analyst": {
+    "easy": [
+      "Difference between SQL and Excel.",
+      "What is Power BI?",
+      "Explain GROUP BY."
+    ],
+    "medium": [
+      "Explain Window Functions.",
+      "Difference between INNER JOIN and LEFT JOIN.",
+      "Explain Data Cleaning."
+    ],
+    "hard": [
+      "Optimize a SQL query.",
+      "Design a Dashboard.",
+      "Explain ETL Pipeline."
+    ]
+  }
+}
