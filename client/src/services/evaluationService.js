@@ -1,9 +1,4 @@
-import axios from "axios";
-
-const API = axios.create({
-  baseURL: "...",
-});
-
+import API from "./api";
 export const evaluateInterview = async (
   questions,
   answers,
